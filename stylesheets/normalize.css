@@ -64,14 +64,14 @@ html {
 }
 
 /*
- * Addresses font-family inconsistency between 'textarea' and other form elements.
+ * Addresses -family inconsistency between 'textarea' and other form elements.
  */
 html,
 button,
 input,
 select,
 textarea {
-  font-family: sans-serif;
+  font-family: serif;
 }
 
 /*
